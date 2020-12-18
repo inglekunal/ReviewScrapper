@@ -51,7 +51,7 @@ def index():
 
                 except:
                     rating = 'No Rating'
-
+                #hello hii
                 try:
                     commentHead = commentbox.div.div.div.p.text
                 except:
